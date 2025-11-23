@@ -1,0 +1,42 @@
+
+Enter number of tasks: 
+Enter task name: Is it important? (1 yes / 0 no): Is it urgent? (1 yes / 0 no): 
+Enter task name: Is it important? (1 yes / 0 no): Is it urgent? (1 yes / 0 no): 
+Enter task name: Is it important? (1 yes / 0 no): Is it urgent? (1 yes / 0 no): 
+Enter task name: Is it important? (1 yes / 0 no): Is it urgent? (1 yes / 0 no): 
+Enter task name: Is it important? (1 yes / 0 no): Is it urgent? (1 yes / 0 no): 
+Enter task name: Is it important? (1 yes / 0 no): Is it urgent? (1 yes / 0 no): 
+Enter task name: Is it important? (1 yes / 0 no): Is it urgent? (1 yes / 0 no): 
+Enter task name: Is it important? (1 yes / 0 no): Is it urgent? (1 yes / 0 no): 
+Enter task name: Is it important? (1 yes / 0 no): Is it urgent? (1 yes / 0 no): 
+=============================================
+            EISENHOWER MATRIX
+=============================================
+
+------------------------------------------------------------
+| Important & Urgent           | Important & Not Urgent       |
+------------------------------------------------------------
+| - Study for exam              | - Internship Work             |
+| - DSA - leetcode              | - Exercise                    |
+| - DBMS Assignment             | - Revise ML                   |
+------------------------------------------------------------
+| Not Important & Urgent       | Not Important & Not Urgent   |
+------------------------------------------------------------
+| - Do laundry                  | - Watch YouTube               |
+| - Project                     |                               |
+------------------------------------------------------------
+
+
+=============================================
+   RECOMMENDED PRIORITY ORDER (Top to Bottom)
+=============================================
+1. Study for exam   (Important: 1, Urgent: 1)
+2. DBMS Assignment   (Important: 1, Urgent: 1)
+3. DSA - leetcode   (Important: 1, Urgent: 1)
+4. Do laundry   (Important: 0, Urgent: 1)
+5. Project   (Important: 0, Urgent: 1)
+6. Revise ML     (Important: 1, Urgent: 0)
+7. Exercise   (Important: 1, Urgent: 0)
+8. Internship Work    (Important: 1, Urgent: 0)
+9. Watch YouTube   (Important: 0, Urgent: 0)
+

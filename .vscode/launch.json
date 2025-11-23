@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kuhu/Documents/Projects/dsa-project",
+      "program": "/Users/kuhu/Documents/Projects/dsa-project/build/Debug/outDebug"
+    }
+  ]
+}
